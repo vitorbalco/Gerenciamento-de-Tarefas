@@ -1,11 +1,11 @@
-# TaskNexus 🚀
+# TaskManagement 🚀
 
 > Gerenciador de tarefas de alta performance com arquitetura modular, persistência em SQLite3 e sistema de autenticação segura via terminal.
 
 ---
 
 ## 🎯 Objetivo do Projeto
-O TaskNexus foi concebido como um marco de transição entre scripts de automação isolados e aplicações de backend estruturadas e escaláveis. O foco central é aplicar conceitos avançados de Lógica de Programação e Banco de Dados Relacionais para gerenciar o ciclo de vida completo de tarefas (CRUD), garantindo a integridade absoluta dos dados e a individualidade de cada usuário em um ecossistema multiusuário.
+O TaskManagement foi concebido como um marco de transição entre scripts de automação isolados e aplicações de backend estruturadas e escaláveis. O foco central é aplicar conceitos avançados de Lógica de Programação e Banco de Dados Relacionais para gerenciar o ciclo de vida completo de tarefas (CRUD), garantindo a integridade absoluta dos dados e a individualidade de cada usuário em um ecossistema multiusuário.
 
 Este projeto demonstra maturidade técnica em:
 
@@ -37,7 +37,7 @@ Como desenvolvedor focado em Backend, estruturei este software sob quatro pilare
 1. Certifique-se de ter o Python instalado.
 2. Clone o repositório:
    ```bash
-   git clone [https://github.com/vitorbalco/TaskNexus.git](https://github.com/vitorbalco/TaskNexus.git)
+   git clone [https://github.com/vitorbalco/TaskManagement.git](https://github.com/vitorbalco/TaskManagement.git)
 
 ## Instale as dependências necessárias:
 ```Bash
